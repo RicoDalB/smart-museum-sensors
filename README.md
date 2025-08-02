@@ -24,22 +24,6 @@ The goal of the project is to demonstrate object-oriented design principles (inh
 
 ---
 
-## Project Structure
-
-src/
-├── main.cpp # Program entry point
-├── Engine/
-│ └── sensorlist.* # Manages the list of sensors
-├── Sensor/
-├── abstractsensor.* # Base sensor interface
-├── temperaturesensor.* # Temperature sensor
-├── humiditysensor.* # Humidity sensor
-├── co2sensor.* # CO2 sensor
-├── SVisitor.h # Visitor interface
-└── SConstVisitor.h # Const visitor interface
-
----
-
 ## 🧠 OOP Concepts Used
 
 - **Inheritance**: All sensors inherit from a shared abstract class.
