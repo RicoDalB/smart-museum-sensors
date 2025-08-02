@@ -1,0 +1,81 @@
+[
+    {
+        "id": 0,
+        "name": "CO2 Sensor 1",
+        "stanza": "Blu",
+        "initial ppm": 78,
+        "dataNumber": 50,
+        "type": "Co2_sensor"
+    },
+    {
+        "id": 1,
+        "name": "hum Sensor 1",
+        "stanza": "Blu",
+        "initial humidity": 9,
+        "dataNumber": 50,
+        "type": "humidity_sensor"
+    },
+    {
+        "id": 2,
+        "name": "Temp Sensor 1",
+        "stanza": "Blu",
+        "initial min temp": 20,
+        "initial max temp": 30,
+        "initial temperature": 23,
+        "dataNumber": 50,
+        "type": "temperature_sensor"
+    },
+    {
+        "id": 3,
+        "name": "CO2 Sensor 2",
+        "stanza": "Mazzini",
+        "initial ppm": 160,
+        "dataNumber": 50,
+        "type": "Co2_sensor"
+    },
+    {
+        "id": 4,
+        "name": "Hum Sensor 2",
+        "stanza": "Mazzini",
+        "initial humidity": 51,
+        "dataNumber": 50,
+        "type": "humidity_sensor"
+    },
+    {
+        "id": 5,
+        "name": "Temp Sensor 1",
+        "stanza": "Mazzini",
+        "initial min temp": 18,
+        "initial max temp": 27,
+        "initial temperature": 20,
+        "dataNumber": 50,
+        "type": "temperature_sensor"
+    },
+   
+    {
+        "id": 6,
+        "name": "CO2 Sensor 3",
+        "stanza": "Baggio",
+        "initial ppm": 99,
+        "dataNumber": 50,
+        "type": "Co2_sensor"
+    },
+    {
+        "id": 7,
+        "name": "Hum Sensor 3",
+        "stanza": "Baggio",
+        "initial humidity": 13,
+        "dataNumber": 50,
+        "type": "humidity_sensor"
+    },
+    {
+        "id": 8,
+        "name": "Temp Sensor 3",
+        "stanza": "Baggio",
+        "initial min temp": 11,
+        "initial max temp": 29,
+        "initial temperature": 19,
+        "dataNumber": 50,
+        "type": "temperature_sensor"
+    }
+]

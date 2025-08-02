@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Asset/icons/Add.svg</file>
+        <file>Asset/icons/Close.svg</file>
+        <file>Asset/icons/Delete.svg</file>
+        <file>Asset/icons/co2.svg</file>
+        <file>Asset/icons/temp.svg</file>
+        <file>Asset/icons/hum.svg</file>
+        <file>Asset/icons/Edit.svg</file>
+        <file>Asset/icons/Museum.svg</file>
+        <file>Asset/icons/Open.svg</file>
+        <file>Asset/icons/Save.svg</file>
+        <file>Asset/icons/SaveAs.svg</file>
+        <file>Asset/icons/Search.svg</file>
+        <file>Asset/icons/New.svg</file>
+        <file>Asset/icons/search_new.svg</file>
+    </qresource>
+</RCC>

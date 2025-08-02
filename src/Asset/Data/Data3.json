@@ -1,0 +1,80 @@
+[
+    {
+        "dataNumber": 50,
+        "id": 20,
+        "initial ppm": 167,
+        "name": "CO2 Sensor Rosso",
+        "stanza": "Rosso",
+        "type": "Co2_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 21,
+        "initial humidity": 16,
+        "name": "hum Sensor Rosso",
+        "stanza": "Rosso",
+        "type": "humidity_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 22,
+        "initial max temp": 30,
+        "initial min temp": 20,
+        "initial temperature": 23,
+        "name": "Temp Sensor Rosso",
+        "stanza": "Rosso",
+        "type": "temperature_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 23,
+        "initial ppm": 150,
+        "name": "CO2 Sensor Giallo",
+        "stanza": "Giallo",
+        "type": "Co2_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 24,
+        "initial humidity": 10,
+        "name": "Hum Sensor Giallo",
+        "stanza": "Giallo",
+        "type": "humidity_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 25,
+        "initial max temp": 38,
+        "initial min temp": 20,
+        "initial temperature": 26,
+        "name": "Temp Sensor Giallo",
+        "stanza": "Giallo",
+        "type": "temperature_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 26,
+        "initial ppm": 91,
+        "name": "CO2 Sensor Verde",
+        "stanza": "Verde",
+        "type": "Co2_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 27,
+        "initial humidity": 55,
+        "name": "Hum Sensor Verde",
+        "stanza": "Verde",
+        "type": "humidity_sensor"
+    },
+    {
+        "dataNumber": 50,
+        "id": 28,
+        "initial max temp": 22,
+        "initial min temp": 31,
+        "initial temperature": 26,
+        "name": "Temp Sensor Verde",
+        "stanza": "Verde",
+        "type": "temperature_sensor"
+    }
+]

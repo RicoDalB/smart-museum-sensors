@@ -1,0 +1,55 @@
+[
+    {
+        "id": 10,
+        "name": "CO2 Sen Blu",
+        "stanza": "Blu",
+        "initial ppm": 121,
+        "dataNumber": 50,
+        "type": "Co2_sensor"
+    },
+    {
+        "id": 11,
+        "name": "hum Sensor Blu",
+        "stanza": "Blu",
+        "initial humidity": 37,
+        "dataNumber": 50,
+        "type": "humidity_sensor"
+    },
+    {
+        "id": 12,
+        "name": "Temp Sensor Blu",
+        "stanza": "Blu",
+        "initial min temp": 25,
+        "initial max temp": 36,
+        "initial temperature": 26,
+        "dataNumber": 50,
+        "type": "temperature_sensor"
+    },
+    {
+        "id": 13,
+        "name": "CO2 Sensor Caravaggio",
+        "stanza": "Caravaggio",
+        "initial ppm": 59,
+        "dataNumber": 50,
+        "type": "Co2_sensor"
+    },
+    {
+        "id": 14,
+        "name": "Hum Sensor Caravaggio",
+        "stanza": "Caravaggio",
+        "initial humidity": 21,
+        "dataNumber": 50,
+        "type": "humidity_sensor"
+    },
+    {
+        "id": 15,
+        "name": "Temp Sensor Caravaggio",
+        "stanza": "Caravaggio",
+        "initial min temp": 18,
+        "initial max temp": 27,
+        "initial temperature": 20,
+        "dataNumber": 50,
+        "type": "temperature_sensor"
+    }
+    
+]
